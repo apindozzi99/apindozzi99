@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Alessandro Pindozzi, a software engineer. I received my bachelor's degree from the Università degli Studi di Parma, where I took a course in computer science, electronics and telecommunications engineering. I am now majoring in Computer Science and Engineering Master Course at the Politecnico di Milano. 
+They say about me that I am constant and determined, I try to give my all when I do what I love, and one way or another I always manage to get through.
+In the course of my studies I have acquired different knowledge, including programming in python and Java, (plus something of C++) with a keener eye toward the backend part. Database design and queries are two topics that have always interested me. However, there is no shortage of references to computer security, as shown in my three-year thesis project, front-end programming, and Deep Learning.
+Here you can find some of the projects I have devoted myself to over the years, I hope they can be of help to you.
